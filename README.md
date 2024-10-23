@@ -4,7 +4,7 @@ Olá! 👋 Seja bem-vindo(a) aos meu projetos. Estes repositórios é um espaço
 
 ## Sobre Mim
 
-Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender algo novo e de compartilhar conhecimento com a comunidade. Gosto de trabalhar com PHP, SQL, Linguagem C, HTML, CSS, e tecnologias Web de preferência BackEnd e estou sempre explorando novas ferramentas e técnicas para melhorar minhas habilidades.
+Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender algo novo e de compartilhar conhecimento com a comunidade. Gosto de trabalhar com SQL, TypeScrpt, JavaScript e tecnologias Web de preferência BackEnd e estou sempre explorando novas ferramentas e técnicas para melhorar minhas habilidades.
 
 ## Sobre o Projeto
 
