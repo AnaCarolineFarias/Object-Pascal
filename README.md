@@ -10,7 +10,7 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 
 Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em Object Pascal]. A ideia principal é [Mostrar que aprendi e sei esta linguagem no meu trabalho, pois somos uma empresa que presta serviços de suporte técnico a outras, e uma das empresas que prestamos serviços o sistema dela foi feito em Delphi 7]. 
 
-![Logo Object Pascal](https://upload.wikimedia.org/wikipedia/commons/f/fd/Object_Pascal_Logo.png)
+![Logo Pascal](https://upload.wikimedia.org/wikipedia/commons/9/9a/Pascal_logo.png)
 
 ### Tecnologias Utilizadas
 
